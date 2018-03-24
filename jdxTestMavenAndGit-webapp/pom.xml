@@ -10,6 +10,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>jdxTestMavenAndGit-webapp</groupId>
 	<artifactId>jdxTestMavenAndGit-webapp</artifactId>
+	<packaging>war</packaging>
 	<dependencies>
 		<dependency>
 			<groupId>jdxTestMavenAndGit-service</groupId>
