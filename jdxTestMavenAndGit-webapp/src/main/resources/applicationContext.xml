@@ -27,4 +27,8 @@
             </list>  
         </property>  
     </bean>
+    
+    <bean id="proxyScanner" class="com.maoshen.scan.ProxyScanner">  
+    	<property name="basePackages" value="com.maoshen.scan"/>  
+    </bean>
 </beans>
